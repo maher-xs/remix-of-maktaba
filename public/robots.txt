@@ -1,0 +1,58 @@
+# مكتبة - Maktaba Robots.txt
+# https://maktaba.cc
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /auth
+Disallow: /reset-password
+Disallow: /profile
+Disallow: /favorites
+Disallow: /my-library
+Disallow: /saved-books
+Disallow: /reading-lists
+Disallow: /upload
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+Sitemap: https://maktaba.cc/sitemap.xml
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  خريطة الموقع الديناميكية متاحة على:
+  https://fzpqpatdpmsjlpoasssl.supabase.co/functions/v1/generate-sitemap
+  
+  هذا الملف هو نسخة ثابتة احتياطية.
+  للحصول على خريطة موقع محدثة تتضمن جميع الكتب والتصنيفات،
+  استخدم الرابط أعلاه.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://maktaba.cc/</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- التصنيفات -->
+  <url>
+    <loc>https://maktaba.cc/categories</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- البحث -->
+  <url>
+    <loc>https://maktaba.cc/search</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- خريطة الموقع -->
+  <url>
+    <loc>https://maktaba.cc/sitemap</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- من نحن -->
+  <url>
+    <loc>https://maktaba.cc/about</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- اتصل بنا -->
+  <url>
+    <loc>https://maktaba.cc/contact</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- سياسة الخصوصية -->
+  <url>
+    <loc>https://maktaba.cc/privacy</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- شروط الخدمة -->
+  <url>
+    <loc>https://maktaba.cc/terms</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- تثبيت التطبيق -->
+  <url>
+    <loc>https://maktaba.cc/install</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- النقاشات -->
+  <url>
+    <loc>https://maktaba.cc/discussions</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- استكشاف القوائم -->
+  <url>
+    <loc>https://maktaba.cc/explore-lists</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- التبرع -->
+  <url>
+    <loc>https://maktaba.cc/donate</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
